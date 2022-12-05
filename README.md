@@ -35,3 +35,6 @@ Practice taking turns to explain the answers to these questions:
  - Research Netlify docs/ecosystem (for things like how to configure environment variables, etc.)
  - Research Netlify edge functions, analytics, forms, identity, etc.
  - Try a different way of deploying, such as using [Github pages](https://pages.github.com/) or [Vercel](https://vercel.com/docs). Compare and contrast with the experience on Netlify.
+
+
+ https://regal-kashata-f7c82f.netlify.app/
